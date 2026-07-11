@@ -166,3 +166,9 @@ sudo service jenkins status
 sudo su -
 sudo su -i
 sudo su -
+git status
+git add .
+git commit -m "Fix App message"
+git push origin main
+sudo service jenkins restart
+sudo service jenkins status
