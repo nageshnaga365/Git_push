@@ -12040,3 +12040,272 @@ current user login details
  07:28:01 up  2:11,  3 users,  load average: 0.00, 0.02, 0.01
 USER     TTY        LOGIN@   IDLE   JCPU   PCPU WHAT
 ec2-user           07:20    1:27m  0.00s  0.01s sshd-session: ec2-user [priv]
+Hellow welcome to cronjob
+display disk space usage
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/nvme0n1p3  9.8G  6.1G  3.8G  62% /
+devtmpfs        3.7G     0  3.7G   0% /dev
+tmpfs           3.7G  1.1M  3.7G   1% /dev/shm
+efivarfs        128K  3.3K  120K   3% /sys/firmware/efi/efivars
+tmpfs           1.5G  8.8M  1.5G   1% /run
+tmpfs           1.0M     0  1.0M   0% /run/credentials/systemd-journald.service
+/dev/nvme0n1p2  200M  9.0M  191M   5% /boot/efi
+tmpfs           1.0M     0  1.0M   0% /run/credentials/getty@tty1.service
+tmpfs           1.0M     0  1.0M   0% /run/credentials/serial-getty@ttyS0.service
+tmpfs           752M   12K  752M   1% /run/user/1000
+current user login details
+ 07:29:01 up  2:12,  3 users,  load average: 0.00, 0.02, 0.00
+USER     TTY        LOGIN@   IDLE   JCPU   PCPU WHAT
+ec2-user           07:20    1:28m  0.00s  0.01s sshd-session: ec2-user [priv]
+Hellow welcome to cronjob
+display disk space usage
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/nvme0n1p3  9.8G  6.1G  3.8G  62% /
+devtmpfs        3.7G     0  3.7G   0% /dev
+tmpfs           3.7G  1.1M  3.7G   1% /dev/shm
+efivarfs        128K  3.3K  120K   3% /sys/firmware/efi/efivars
+tmpfs           1.5G  8.8M  1.5G   1% /run
+tmpfs           1.0M     0  1.0M   0% /run/credentials/systemd-journald.service
+/dev/nvme0n1p2  200M  9.0M  191M   5% /boot/efi
+tmpfs           1.0M     0  1.0M   0% /run/credentials/getty@tty1.service
+tmpfs           1.0M     0  1.0M   0% /run/credentials/serial-getty@ttyS0.service
+tmpfs           752M   12K  752M   1% /run/user/1000
+current user login details
+ 07:30:01 up  2:13,  3 users,  load average: 0.66, 0.16, 0.05
+USER     TTY        LOGIN@   IDLE   JCPU   PCPU WHAT
+ec2-user           07:20    1:29m  0.00s  0.01s sshd-session: ec2-user [priv]
+Hellow welcome to cronjob
+display disk space usage
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/nvme0n1p3  9.8G  6.1G  3.8G  62% /
+devtmpfs        3.7G     0  3.7G   0% /dev
+tmpfs           3.7G  1.1M  3.7G   1% /dev/shm
+efivarfs        128K  3.3K  120K   3% /sys/firmware/efi/efivars
+tmpfs           1.5G  8.8M  1.5G   1% /run
+tmpfs           1.0M     0  1.0M   0% /run/credentials/systemd-journald.service
+/dev/nvme0n1p2  200M  9.0M  191M   5% /boot/efi
+tmpfs           1.0M     0  1.0M   0% /run/credentials/getty@tty1.service
+tmpfs           1.0M     0  1.0M   0% /run/credentials/serial-getty@ttyS0.service
+tmpfs           752M   12K  752M   1% /run/user/1000
+current user login details
+ 07:31:01 up  2:14,  3 users,  load average: 0.24, 0.13, 0.04
+USER     TTY        LOGIN@   IDLE   JCPU   PCPU WHAT
+ec2-user           07:20    1:30m  0.00s  0.01s sshd-session: ec2-user [priv]
+Hellow welcome to cronjob
+display disk space usage
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/nvme0n1p3  9.8G  6.1G  3.8G  62% /
+devtmpfs        3.7G     0  3.7G   0% /dev
+tmpfs           3.7G  1.1M  3.7G   1% /dev/shm
+efivarfs        128K  3.3K  120K   3% /sys/firmware/efi/efivars
+tmpfs           1.5G  8.8M  1.5G   1% /run
+tmpfs           1.0M     0  1.0M   0% /run/credentials/systemd-journald.service
+/dev/nvme0n1p2  200M  9.0M  191M   5% /boot/efi
+tmpfs           1.0M     0  1.0M   0% /run/credentials/getty@tty1.service
+tmpfs           1.0M     0  1.0M   0% /run/credentials/serial-getty@ttyS0.service
+tmpfs           752M   12K  752M   1% /run/user/1000
+current user login details
+ 07:32:02 up  2:15,  3 users,  load average: 0.09, 0.10, 0.04
+USER     TTY        LOGIN@   IDLE   JCPU   PCPU WHAT
+ec2-user           07:20    1:31m  0.00s  0.01s sshd-session: ec2-user [priv]
+Hellow welcome to cronjob
+display disk space usage
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/nvme0n1p3  9.8G  6.1G  3.8G  62% /
+devtmpfs        3.7G     0  3.7G   0% /dev
+tmpfs           3.7G  1.1M  3.7G   1% /dev/shm
+efivarfs        128K  3.3K  120K   3% /sys/firmware/efi/efivars
+tmpfs           1.5G  8.8M  1.5G   1% /run
+tmpfs           1.0M     0  1.0M   0% /run/credentials/systemd-journald.service
+/dev/nvme0n1p2  200M  9.0M  191M   5% /boot/efi
+tmpfs           1.0M     0  1.0M   0% /run/credentials/getty@tty1.service
+tmpfs           1.0M     0  1.0M   0% /run/credentials/serial-getty@ttyS0.service
+tmpfs           752M   12K  752M   1% /run/user/1000
+current user login details
+ 07:33:01 up  2:16,  3 users,  load average: 0.03, 0.08, 0.03
+USER     TTY        LOGIN@   IDLE   JCPU   PCPU WHAT
+ec2-user           07:20    1:32m  0.00s  0.01s sshd-session: ec2-user [priv]
+Hellow welcome to cronjob
+display disk space usage
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/nvme0n1p3  9.8G  6.1G  3.8G  62% /
+devtmpfs        3.7G     0  3.7G   0% /dev
+tmpfs           3.7G  1.1M  3.7G   1% /dev/shm
+efivarfs        128K  3.3K  120K   3% /sys/firmware/efi/efivars
+tmpfs           1.5G  8.7M  1.5G   1% /run
+tmpfs           1.0M     0  1.0M   0% /run/credentials/systemd-journald.service
+/dev/nvme0n1p2  200M  9.0M  191M   5% /boot/efi
+tmpfs           1.0M     0  1.0M   0% /run/credentials/getty@tty1.service
+tmpfs           1.0M     0  1.0M   0% /run/credentials/serial-getty@ttyS0.service
+tmpfs           752M   12K  752M   1% /run/user/1000
+current user login details
+ 04:58:02 up 0 min,  0 user,  load average: 0.30, 0.09, 0.03
+USER     TTY        LOGIN@   IDLE   JCPU   PCPU WHAT
+Hellow welcome to cronjob
+display disk space usage
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/nvme0n1p3  9.8G  6.1G  3.8G  62% /
+devtmpfs        3.7G     0  3.7G   0% /dev
+tmpfs           3.7G  1.1M  3.7G   1% /dev/shm
+efivarfs        128K  3.3K  120K   3% /sys/firmware/efi/efivars
+tmpfs           1.5G  8.7M  1.5G   1% /run
+tmpfs           1.0M     0  1.0M   0% /run/credentials/systemd-journald.service
+/dev/nvme0n1p2  200M  9.0M  191M   5% /boot/efi
+tmpfs           1.0M     0  1.0M   0% /run/credentials/getty@tty1.service
+tmpfs           1.0M     0  1.0M   0% /run/credentials/serial-getty@ttyS0.service
+tmpfs           752M   12K  752M   1% /run/user/1000
+current user login details
+ 04:59:01 up 1 min,  1 user,  load average: 0.11, 0.07, 0.02
+USER     TTY        LOGIN@   IDLE   JCPU   PCPU WHAT
+ec2-user           04:58    1:35   0.00s  0.01s sshd-session: ec2-user [priv]
+Hellow welcome to cronjob
+display disk space usage
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/nvme0n1p3  9.8G  6.1G  3.8G  62% /
+devtmpfs        3.7G     0  3.7G   0% /dev
+tmpfs           3.7G  1.1M  3.7G   1% /dev/shm
+efivarfs        128K  3.3K  120K   3% /sys/firmware/efi/efivars
+tmpfs           1.5G  8.7M  1.5G   1% /run
+tmpfs           1.0M     0  1.0M   0% /run/credentials/systemd-journald.service
+/dev/nvme0n1p2  200M  9.0M  191M   5% /boot/efi
+tmpfs           1.0M     0  1.0M   0% /run/credentials/getty@tty1.service
+tmpfs           1.0M     0  1.0M   0% /run/credentials/serial-getty@ttyS0.service
+tmpfs           752M   12K  752M   1% /run/user/1000
+current user login details
+ 05:00:01 up 2 min,  1 user,  load average: 0.04, 0.05, 0.02
+USER     TTY        LOGIN@   IDLE   JCPU   PCPU WHAT
+ec2-user           04:58    2:35   0.00s  0.01s sshd-session: ec2-user [priv]
+Hellow welcome to cronjob
+display disk space usage
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/nvme0n1p3  9.8G  6.1G  3.8G  62% /
+devtmpfs        3.7G     0  3.7G   0% /dev
+tmpfs           3.7G  1.1M  3.7G   1% /dev/shm
+efivarfs        128K  3.3K  120K   3% /sys/firmware/efi/efivars
+tmpfs           1.5G  8.7M  1.5G   1% /run
+tmpfs           1.0M     0  1.0M   0% /run/credentials/systemd-journald.service
+/dev/nvme0n1p2  200M  9.0M  191M   5% /boot/efi
+tmpfs           1.0M     0  1.0M   0% /run/credentials/getty@tty1.service
+tmpfs           1.0M     0  1.0M   0% /run/credentials/serial-getty@ttyS0.service
+tmpfs           752M   12K  752M   1% /run/user/1000
+current user login details
+ 05:01:01 up 3 min,  1 user,  load average: 0.01, 0.04, 0.01
+USER     TTY        LOGIN@   IDLE   JCPU   PCPU WHAT
+ec2-user           04:58    3:35   0.00s  0.01s sshd-session: ec2-user [priv]
+Hellow welcome to cronjob
+display disk space usage
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/nvme0n1p3  9.8G  6.1G  3.8G  62% /
+devtmpfs        3.7G     0  3.7G   0% /dev
+tmpfs           3.7G  1.1M  3.7G   1% /dev/shm
+efivarfs        128K  3.3K  120K   3% /sys/firmware/efi/efivars
+tmpfs           1.5G  8.7M  1.5G   1% /run
+tmpfs           1.0M     0  1.0M   0% /run/credentials/systemd-journald.service
+/dev/nvme0n1p2  200M  9.0M  191M   5% /boot/efi
+tmpfs           1.0M     0  1.0M   0% /run/credentials/getty@tty1.service
+tmpfs           1.0M     0  1.0M   0% /run/credentials/serial-getty@ttyS0.service
+tmpfs           752M   12K  752M   1% /run/user/1000
+current user login details
+ 05:02:01 up 4 min,  1 user,  load average: 0.06, 0.05, 0.01
+USER     TTY        LOGIN@   IDLE   JCPU   PCPU WHAT
+ec2-user           04:58    4:35   0.00s  0.01s sshd-session: ec2-user [priv]
+Hellow welcome to cronjob
+display disk space usage
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/nvme0n1p3  9.8G  6.1G  3.8G  62% /
+devtmpfs        3.7G     0  3.7G   0% /dev
+tmpfs           3.7G  1.1M  3.7G   1% /dev/shm
+efivarfs        128K  3.3K  120K   3% /sys/firmware/efi/efivars
+tmpfs           1.5G  8.7M  1.5G   1% /run
+tmpfs           1.0M     0  1.0M   0% /run/credentials/systemd-journald.service
+/dev/nvme0n1p2  200M  9.0M  191M   5% /boot/efi
+tmpfs           1.0M     0  1.0M   0% /run/credentials/getty@tty1.service
+tmpfs           1.0M     0  1.0M   0% /run/credentials/serial-getty@ttyS0.service
+tmpfs           752M   12K  752M   1% /run/user/1000
+current user login details
+ 05:03:01 up 5 min,  1 user,  load average: 0.20, 0.10, 0.03
+USER     TTY        LOGIN@   IDLE   JCPU   PCPU WHAT
+ec2-user           04:58    5:35   0.00s  0.01s sshd-session: ec2-user [priv]
+Hellow welcome to cronjob
+display disk space usage
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/nvme0n1p3  9.8G  6.1G  3.8G  62% /
+devtmpfs        3.7G     0  3.7G   0% /dev
+tmpfs           3.7G  1.1M  3.7G   1% /dev/shm
+efivarfs        128K  3.3K  120K   3% /sys/firmware/efi/efivars
+tmpfs           1.5G  8.7M  1.5G   1% /run
+tmpfs           1.0M     0  1.0M   0% /run/credentials/systemd-journald.service
+/dev/nvme0n1p2  200M  9.0M  191M   5% /boot/efi
+tmpfs           1.0M     0  1.0M   0% /run/credentials/getty@tty1.service
+tmpfs           1.0M     0  1.0M   0% /run/credentials/serial-getty@ttyS0.service
+tmpfs           752M   12K  752M   1% /run/user/1000
+current user login details
+ 05:04:02 up 6 min,  0 user,  load average: 0.07, 0.08, 0.02
+USER     TTY        LOGIN@   IDLE   JCPU   PCPU WHAT
+Hellow welcome to cronjob
+display disk space usage
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/nvme0n1p3  9.8G  6.1G  3.8G  62% /
+devtmpfs        3.7G     0  3.7G   0% /dev
+tmpfs           3.7G  1.1M  3.7G   1% /dev/shm
+efivarfs        128K  3.3K  120K   3% /sys/firmware/efi/efivars
+tmpfs           1.5G  8.7M  1.5G   1% /run
+tmpfs           1.0M     0  1.0M   0% /run/credentials/systemd-journald.service
+/dev/nvme0n1p2  200M  9.0M  191M   5% /boot/efi
+tmpfs           1.0M     0  1.0M   0% /run/credentials/getty@tty1.service
+tmpfs           1.0M     0  1.0M   0% /run/credentials/serial-getty@ttyS0.service
+tmpfs           752M   12K  752M   1% /run/user/1000
+current user login details
+ 05:05:01 up 7 min,  0 user,  load average: 0.02, 0.06, 0.02
+USER     TTY        LOGIN@   IDLE   JCPU   PCPU WHAT
+Hellow welcome to cronjob
+display disk space usage
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/nvme0n1p3  9.8G  6.1G  3.8G  62% /
+devtmpfs        3.7G     0  3.7G   0% /dev
+tmpfs           3.7G  1.1M  3.7G   1% /dev/shm
+efivarfs        128K  3.3K  120K   3% /sys/firmware/efi/efivars
+tmpfs           1.5G  8.7M  1.5G   1% /run
+tmpfs           1.0M     0  1.0M   0% /run/credentials/systemd-journald.service
+/dev/nvme0n1p2  200M  9.0M  191M   5% /boot/efi
+tmpfs           1.0M     0  1.0M   0% /run/credentials/getty@tty1.service
+tmpfs           1.0M     0  1.0M   0% /run/credentials/serial-getty@ttyS0.service
+tmpfs           752M   12K  752M   1% /run/user/1000
+current user login details
+ 05:06:01 up 8 min,  1 user,  load average: 0.26, 0.14, 0.05
+USER     TTY        LOGIN@   IDLE   JCPU   PCPU WHAT
+ec2-user           05:05    8:35   0.00s  0.01s sshd-session: ec2-user [priv]
+Hellow welcome to cronjob
+display disk space usage
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/nvme0n1p3  9.8G  6.1G  3.8G  62% /
+devtmpfs        3.7G     0  3.7G   0% /dev
+tmpfs           3.7G  1.1M  3.7G   1% /dev/shm
+efivarfs        128K  3.3K  120K   3% /sys/firmware/efi/efivars
+tmpfs           1.5G  8.7M  1.5G   1% /run
+tmpfs           1.0M     0  1.0M   0% /run/credentials/systemd-journald.service
+/dev/nvme0n1p2  200M  9.0M  191M   5% /boot/efi
+tmpfs           1.0M     0  1.0M   0% /run/credentials/getty@tty1.service
+tmpfs           1.0M     0  1.0M   0% /run/credentials/serial-getty@ttyS0.service
+tmpfs           752M   12K  752M   1% /run/user/1000
+current user login details
+ 05:07:01 up 9 min,  1 user,  load average: 0.09, 0.12, 0.04
+USER     TTY        LOGIN@   IDLE   JCPU   PCPU WHAT
+ec2-user           05:05    9:35   0.00s  0.01s sshd-session: ec2-user [priv]
+Hellow welcome to cronjob
+display disk space usage
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/nvme0n1p3  9.8G  6.1G  3.8G  62% /
+devtmpfs        3.7G     0  3.7G   0% /dev
+tmpfs           3.7G  1.1M  3.7G   1% /dev/shm
+efivarfs        128K  3.3K  120K   3% /sys/firmware/efi/efivars
+tmpfs           1.5G  8.7M  1.5G   1% /run
+tmpfs           1.0M     0  1.0M   0% /run/credentials/systemd-journald.service
+/dev/nvme0n1p2  200M  9.0M  191M   5% /boot/efi
+tmpfs           1.0M     0  1.0M   0% /run/credentials/getty@tty1.service
+tmpfs           1.0M     0  1.0M   0% /run/credentials/serial-getty@ttyS0.service
+tmpfs           752M   12K  752M   1% /run/user/1000
+current user login details
+ 05:08:01 up 10 min,  1 user,  load average: 0.28, 0.17, 0.07
+USER     TTY        LOGIN@   IDLE   JCPU   PCPU WHAT
+ec2-user           05:05   10:35   0.00s  0.01s sshd-session: ec2-user [priv]

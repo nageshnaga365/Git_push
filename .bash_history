@@ -172,3 +172,15 @@ git commit -m "Fix App message"
 git push origin main
 sudo service jenkins restart
 sudo service jenkins status
+sudo su -
+git status
+git add .
+git commit -m "fix deploy stage in jenkinsfile"
+git push origin main
+git add .
+git commit -m "syntax error at line 64 in jenkinsfile"
+git push origin main
+git add .
+git commit -m "Synatx error in jenkinsfile"
+git push origin main
+sudo service jenkins status
